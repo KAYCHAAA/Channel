@@ -1,0 +1,1 @@
+var json_UTM_4 = {"type":"FeatureCollection","name":"UTM_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"123456"},"geometry":{"type":"Point","coordinates":[103.637922430980694,1.560157799113369]}}]}
